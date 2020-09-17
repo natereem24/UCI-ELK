@@ -1,3 +1,5 @@
+ELK_STACK_PROJECT
+UCI Cyber Security Program Elk Stack Project
 
 This Document Contains Following Details:
 1. Network Diagram
