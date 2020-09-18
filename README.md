@@ -65,4 +65,5 @@ Elk,
 Red Team VM1
 
 Beats:
-[filebeat-config.yml](https://github.com/natereem24/UCI-ELK/blob/master/filebeat-config.yml)
+[filebeat-config.yml](https://github.com/natereem24/UCI-ELK/blob/master/filebeat-config.yml),
+[filebeat-playbook.yml](https://github.com/natereem24/UCI-ELK/blob/master/filebeat-playbook.yml)
