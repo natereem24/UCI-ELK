@@ -4,7 +4,7 @@ This Document Contains Following Details:
 2. Description of the Topology
 3. Access Policies
 4. Elk Configuration: Beats in Use/Machines Being Monitored
-5. How to Use the Ansible Build
+5. Kibana
 
 # 1. Network Diagram
 
@@ -69,5 +69,13 @@ Beats:
 [filebeat-playbook.yml](https://github.com/natereem24/UCI-ELK/blob/master/filebeat-playbook.yml)
 
 These beats allow us to collect the following information from each machine:
+
 •	The filebeat elasticach module usually deals with audit logs, depreciation logs, gc logs, server logs, and slow logs.
+
 •	The metricbeat module collects info such as cpu usage, memory, disk, network, and other varying options of a system. 
+
+# 5. Kibana
+
+Examples of how Kibana will look when it monitors a webserver:
+
+
