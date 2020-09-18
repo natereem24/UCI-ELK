@@ -21,6 +21,7 @@ Integrating an elk server allows users to easily monitor the vulnerable VM’s f
 The Metricbeat collects metrics from the operating system in use and from services running on the server, in this case the Elk Server. 
 
 The configuration details for each machine may be found below. 
+
 |  Name   	   | Function  	     | IP Address    | Operating System  	|
 |Jump Box      |Gateway	         |10.10.0.11	   |      Linux	        |
 |Red Team VM1  | DVWA Server     |10.10.0.12   	 |   	  Linux         |
@@ -37,6 +38,7 @@ Only the load balancer and jump box virtual machine can accept connections from 
 10.10.0.12
 
 The summary of the access policies in place can be found in the table below.
+
 |Name   	    |IP Address   	| Publicly Accessible  	|
 |Jump Box	    |	10.10.0.11    |	     Yes              |
 |Red Team VM1 | 10.10.0.12  	|   	 No               |
