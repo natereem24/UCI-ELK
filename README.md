@@ -59,9 +59,10 @@ Red Team VM1 10.10.0.12
 We have installed the following beats on these machines:
 
 Machines:
+
 Jump Box
 Elk
 Red Team VM1
 
 Beats:
-
+[filebeat-config.yml](https://github.com/natereem24/UCI-ELK/blob/master/filebeat-config.yml)
