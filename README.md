@@ -60,8 +60,8 @@ We have installed the following beats on these machines:
 
 Machines:
 
-Jump Box
-Elk
+Jump Box,
+Elk,
 Red Team VM1
 
 Beats:
