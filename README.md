@@ -23,9 +23,13 @@ The Metricbeat collects metrics from the operating system in use and from servic
 The configuration details for each machine may be found below. 
 
 |  Name   	   | Function  	     | IP Address    | Operating System  	|
+
 |Jump Box      |Gateway	         |10.10.0.11	   |      Linux	        |
+
 |Red Team VM1  | DVWA Server     |10.10.0.12   	 |   	  Linux         |
+
 |Load Balancer | Balances Traffic|40.125.126.131 |   	  Linux         |
+
 | Elk Server VM| Elk Server   	 |10.0.0.4   	   |   	  Linux         |
 
 # 3. Access Policies
@@ -40,9 +44,13 @@ Only the load balancer and jump box virtual machine can accept connections from 
 The summary of the access policies in place can be found in the table below.
 
 |Name   	    |IP Address   	| Publicly Accessible  	|
+
 |Jump Box	    |	10.10.0.11    |	     Yes              |
+
 |Red Team VM1 | 10.10.0.12  	|   	 No               |
+
 |Load Balancer| 40.125.126.131|      Yes	            |
+
 |Elk Server VM| 10.0.0.4  	  |   	 No               |
 
 # 4. Elk Configuration
