@@ -67,3 +67,7 @@ Red Team VM1
 Beats:
 [filebeat-config.yml](https://github.com/natereem24/UCI-ELK/blob/master/filebeat-config.yml),
 [filebeat-playbook.yml](https://github.com/natereem24/UCI-ELK/blob/master/filebeat-playbook.yml)
+
+These beats allow us to collect the following information from each machine:
+•	The filebeat elasticach module usually deals with audit logs, depreciation logs, gc logs, server logs, and slow logs.
+•	The metricbeat module collects info such as cpu usage, memory, disk, network, and other varying options of a system. 
