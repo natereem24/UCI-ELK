@@ -78,4 +78,4 @@ These beats allow us to collect the following information from each machine:
 
 Examples of how Kibana will look when it monitors a webserver:
 
-![alt text](
+![alt text](https://github.com/natereem24/UCI-ELK/blob/master/Kibana%201.PNG)
