@@ -8,4 +8,4 @@ This Document Contains Following Details:
 
 # 1. Network Diagram
 Inline-style:
-! [alt text](
+![alt text](https://github.com/natereem24/UCI-ELK/blob/master/Project%2013%20diagram.PNG)
