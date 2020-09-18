@@ -7,5 +7,6 @@ This Document Contains Following Details:
 5. How to Use the Ansible Build
 
 # 1. Network Diagram
-Inline-style:
+
 ![alt text](https://github.com/natereem24/UCI-ELK/blob/master/Project%2013%20diagram.PNG)
+These files have been tested and used to generate a live Elk deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, select portions of the file may be used to install only certain pieces of it, such as Filebeat
