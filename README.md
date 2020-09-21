@@ -20,7 +20,7 @@ Integrating an elk server allows users to easily monitor the vulnerable VM’s f
 
 The Metricbeat collects metrics from the operating system in use and from services running on the server, in this case the Elk Server. 
 
-The configuration details for each machine may be found below. 
+The configuration details for each machine may be found below: 
 
 |  Name   	   | Function  	     | IP Address    | Operating System  	|
 
